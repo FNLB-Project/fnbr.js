@@ -126,7 +126,7 @@
 
     "@eslint/plugin-kit": ["@eslint/plugin-kit@0.4.1", "", { "dependencies": { "@eslint/core": "^0.17.0", "levn": "^0.4.1" } }, "sha512-43/qtrDUokr7LJqoF2c3+RInu/t4zfrpYdoSDfYyhg52rwLV6TnOvdG4fXm7IkSB3wErkcmJS9iEhjVtOSEjjA=="],
 
-    "@fnlb-project/stanza": ["@fnlb-project/stanza@12.20.20", "https://npm.pkg.github.com/@fnlb-project/stanza/-/stanza-12.20.20.tgz", { "dependencies": { "async": "^3.2.6", "sdp": "^3.2.1" } }, "sha512-/ipcqXXwrj3UYtDFKE0iaMj33wEsSZeE7mlwK9szm7LftFugTyzh2kWRPChPgiSVfEJWvIzVOr1lMhiFmRczJQ=="],
+    "@fnlb-project/stanza": ["@fnlb-project/stanza@12.20.20", "https://npm.pkg.github.com/download/@fnlb-project/stanza/12.20.20/c2cdd34472ae240abb5b39281c6af1fbc0e69e7e", { "dependencies": { "async": "^3.2.6", "sdp": "^3.2.1" } }, "sha512-eVrtIsfowjkuSb6iMzGjp/MOn20rLf0srxS6mFx6Vx9mn1gfiASi8qd8hZ/r8KtuHMKPI4Y+A+IWalw0dKw+cQ=="],
 
     "@humanfs/core": ["@humanfs/core@0.19.1", "", {}, "sha512-5DyQ4+1JEUzejeK1JGICcideyfUbGixgS9jNgex5nqkW+cY7WZhxBigmieN5Qnw9ZosSNVC9KQKyb+GUaGyKUA=="],
 
