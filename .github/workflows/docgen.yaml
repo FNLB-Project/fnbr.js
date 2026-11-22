@@ -1,4 +1,4 @@
-name: "CI"
+name: 'CI'
 on:
   push:
     branches:
@@ -43,10 +43,14 @@ jobs:
       - name: Install Main Repository Dependencies
         working-directory: ./main
         run: npm ci
+        env:
+            NODE_AUTH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Install DocGen Dependencies
         working-directory: ./docgen
         run: npm ci
+        env:
+            NODE_AUTH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Compile DocGen
         working-directory: ./docgen

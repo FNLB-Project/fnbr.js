@@ -12,10 +12,10 @@
       },
       "devDependencies": {
         "@types/jest": "^30.0.0",
-        "@types/node": "^24.12.4",
-        "@typescript-eslint/eslint-plugin": "^8.59.4",
-        "@typescript-eslint/parser": "^8.59.4",
-        "eslint": "^9.39.4",
+        "@types/node": "^24.13.3",
+        "@typescript-eslint/eslint-plugin": "^8.66.0",
+        "@typescript-eslint/parser": "^8.66.0",
+        "eslint": "^9.39.5",
         "eslint-config-airbnb-base": "^15.0.0",
         "eslint-config-airbnb-typescript": "^18.0.0",
         "eslint-plugin-import": "^2.32.0",
@@ -126,7 +126,7 @@
 
     "@eslint/plugin-kit": ["@eslint/plugin-kit@0.4.1", "", { "dependencies": { "@eslint/core": "^0.17.0", "levn": "^0.4.1" } }, "sha512-43/qtrDUokr7LJqoF2c3+RInu/t4zfrpYdoSDfYyhg52rwLV6TnOvdG4fXm7IkSB3wErkcmJS9iEhjVtOSEjjA=="],
 
-    "@fnlb-project/stanza": ["@fnlb-project/stanza@12.20.20", "", { "dependencies": { "async": "^3.2.6", "sdp": "^3.2.1" } }, "sha512-/ipcqXXwrj3UYtDFKE0iaMj33wEsSZeE7mlwK9szm7LftFugTyzh2kWRPChPgiSVfEJWvIzVOr1lMhiFmRczJQ=="],
+    "@fnlb-project/stanza": ["@fnlb-project/stanza@12.20.20", "https://npm.pkg.github.com/@fnlb-project/stanza/-/stanza-12.20.20.tgz", { "dependencies": { "async": "^3.2.6", "sdp": "^3.2.1" } }, "sha512-/ipcqXXwrj3UYtDFKE0iaMj33wEsSZeE7mlwK9szm7LftFugTyzh2kWRPChPgiSVfEJWvIzVOr1lMhiFmRczJQ=="],
 
     "@humanfs/core": ["@humanfs/core@0.19.1", "", {}, "sha512-5DyQ4+1JEUzejeK1JGICcideyfUbGixgS9jNgex5nqkW+cY7WZhxBigmieN5Qnw9ZosSNVC9KQKyb+GUaGyKUA=="],
 

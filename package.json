@@ -1,12 +1,12 @@
 {
   "name": "@fnlb-project/fnbr",
-	"version": "4.2.69",
+  "version": "4.2.75",
   "sideEffects": false,
   "description": "A library to interact with Epic Games' Fortnite HTTP and XMPP services",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "publishConfig": {
-    "access": "public"
+    "registry": "https://npm.pkg.github.com"
   },
   "scripts": {
     "build": "node generateExports.js && npx tsc",
@@ -19,7 +19,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Fortnite-LobbyBot/fnbr.js.git"
+    "url": "git+https://github.com/FNLB-Project/fnbr.js.git"
   },
   "author": "This Nils",
   "contributors": [
@@ -27,7 +27,7 @@
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Fortnite-LobbyBot/fnbr.js/issues"
+    "url": "https://github.com/FNLB-Project/fnbr.js/issues"
   },
   "homepage": "https://fnbr.js.org",
   "keywords": [
